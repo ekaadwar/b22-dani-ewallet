@@ -4,7 +4,7 @@ import { View, Text } from "react-native";
 
 import { createStackNavigator } from "@react-navigation/stack";
 
-import GetStarted from "./src/screens/getStarted";
+import GetStarted from "./src/screens/GetStarted";
 
 const Stack = createStackNavigator();
 
